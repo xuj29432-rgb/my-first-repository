@@ -18,3 +18,9 @@ I am a university student interested in:
 - Learn Git and GitHub
 - Explore open-source projects
 - Build my own projects
+
+## Current Progress
+
+- Created my first repository
+- Learned how to make commits
+- Exploring version control
